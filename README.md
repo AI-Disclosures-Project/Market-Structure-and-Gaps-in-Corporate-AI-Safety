@@ -1,4 +1,4 @@
-![image](Figures/green+orange-full-color_lrg.png) 
+![image](Figures/green+orange-full-color_lrg.jpg) 
 
 # Market Structure \& Gaps in Corporate AI Safety
 Research, Policy, Practice and Standards
