@@ -1,0 +1,247 @@
+,o1,Claude_3,gemini_15,llama3,gpt-4o
+100Q Hard,False,True,False,False,False
+1H-VideoQA,False,False,True,False,False
+ACLUE,False,False,False,False,False
+AGIEval,False,False,False,True,False
+AI2D,False,True,True,True,False
+AMC,False,True,True,False,False
+AP Art History,False,False,False,True,False
+AP Biology,False,False,False,True,False
+AP Calculus,False,False,False,True,False
+AP Chemistry,False,False,False,True,False
+AP English Language,False,False,False,False,False
+AP English Literature,False,False,False,False,False
+AP Environmental Science,False,False,False,False,False
+AP Macro Economics,False,False,False,False,False
+AP Micro Economics,False,False,False,False,False
+AP Physics,False,False,False,True,False
+AP Psychology,False,False,False,True,False
+AP Statistics,False,False,False,True,False
+AP US Government,False,False,False,False,False
+AP US History,False,False,False,True,False
+AP World History,False,False,False,True,False
+API-Bank,False,False,False,True,False
+API-Bench,False,False,False,True,False
+APPS,False,True,False,False,False
+ARC Challenge,False,True,False,True,False
+ARC-Easy,False,False,False,False,True
+ASROB,False,False,True,False,False
+ActivityNet-QA,False,False,True,True,False
+Adv SQuAD,False,False,False,False,False
+Agentic Tasks,True,False,False,False,True
+AlpacaEval,False,False,False,False,False
+Audio Needle-in-a-Haystack,False,False,True,False,False
+BBQ,True,True,True,False,False
+BFCL,False,False,True,True,False
+BeHonest,False,False,False,False,False
+BetterChartQA,False,False,True,False,False
+BigBench Hard,False,True,True,True,False
+BioLP,True,False,False,False,False
+Blink,False,False,True,False,False
+BlocksWorld,False,False,True,False,False
+CTF Challenges,True,False,False,False,True
+Calendar Scheduling,False,False,True,False,False
+Chain-of-Thought Safety Evaluation (unnamed),False,False,False,False,False
+Challenging Refusal Evaluation (unnamed),False,False,False,False,False
+ChangeMyView,True,False,False,False,False
+ChartQA,False,True,True,True,False
+Chatbot Arena Leaderboard,False,False,False,False,False
+ChemicalDiagramQA,False,False,True,False,False
+Chinese Large Model Leaderboard,False,False,False,False,False
+Combined Self-Reasoning and Theory of Mind,False,False,False,False,False
+CommonSenseQA,False,False,False,True,False
+CompMix,False,False,False,False,False
+CompassRank,False,False,False,False,False
+Contextual Nuclear Knowledge (unnamed),False,False,False,False,False
+Covost 2,False,False,True,True,False
+DROP,False,True,True,True,False
+DUDE,False,False,True,False,False
+Discrimination Evaluation (unnamed),False,False,False,False,False
+DocVQA,False,True,True,True,False
+DreamBench++,False,False,False,False,False
+Drop,False,True,True,True,False
+Dynabench SQuAD,False,False,False,True,False
+Easy-Medium QA,False,True,False,False,False
+EgoSchema,False,False,True,False,False
+En.MC,False,False,False,True,False
+En.QA,False,False,False,True,False
+Evaluation For Discrimination (unnamed),False,False,False,False,False
+Expert Comparisons on Biothreat Information,True,False,False,False,False
+Expertise QA,False,False,True,False,False
+FELM,False,False,False,False,False
+FLEURS,False,False,True,True,False
+Factual Accuracy Benchmark (Unnamed),False,False,False,False,False
+Frontier Threat Red Teaming (Unnamed),False,False,False,False,False
+Function Calling,False,True,True,True,False
+Functional MATH,False,False,True,False,False
+GCG,False,False,True,False,False
+GMAT,False,False,False,True,False
+GPQA,True,True,True,True,False
+GRE Physics,False,False,False,True,False
+GRE Quantitative,False,False,False,False,False
+GSM-Plus,False,False,False,True,False
+GSM8K,False,True,True,True,False
+HellaSwag,False,True,True,True,True
+HiddenMath,False,False,True,False,False
+Human Sourced Jailbreaks,True,False,False,False,False
+HumanEval,False,True,True,True,False
+HumanEval+,False,False,False,True,False
+IFEval,False,False,False,True,False
+InfiBench,False,False,False,False,False
+InfiniteBench,False,False,False,True,False
+InfographicVQA,False,False,True,False,False
+Instruction Hierarchy Evaluation,True,False,False,False,False
+Instrumental Alignment Faking,True,False,False,False,True
+Instrumental Self-modification,False,False,False,False,True
+Jailbreak Arena,True,False,False,False,False
+JailbreakBench,False,False,True,False,False
+LLMEval,False,False,False,False,False
+LSAT,False,True,False,True,False
+Lab-bench,True,False,False,False,True
+Lambada,False,False,False,False,True
+LawBench,False,False,False,False,False
+LibriSpeech,False,False,True,True,False
+LiveBench,False,False,False,False,False
+Logistics,False,False,True,False,False
+Long Context Retrieval tasks (Unnamed),False,False,False,False,False
+Long-context Audio (Unnamed),False,False,False,False,False
+Long-document QA (Unnamed),False,False,False,False,False
+Long-form Biological Risk Questions (Unnamed),False,False,False,False,False
+M3CoT,False,False,False,False,False
+MATH,False,True,True,True,False
+MBPP,False,True,False,True,False
+MBPP EvalPlus,False,False,False,True,False
+METR,True,False,False,False,True
+MGSM,False,True,True,True,False
+MLE-Bench,True,False,False,False,False
+MMLU,True,True,True,True,True
+MMLU Anatomy,False,False,False,False,True
+MMLU Clinical Knowledge,False,False,False,False,True
+MMLU College Biology,False,False,False,False,True
+MMLU College Medicine,False,False,False,False,True
+MMLU Language (0-shot),True,False,False,False,False
+MMLU Medical Genetics,False,False,False,False,True
+MMLU Professional Medicine,False,False,False,False,True
+MMLU-Pro,False,False,False,True,True
+MMMU,False,True,True,True,False
+MMToM-QA,False,False,False,False,False
+MMedBench,False,False,False,False,False
+MTOB,False,False,True,False,False
+MakeMePay,True,False,False,False,False
+MakeMeSay,True,False,False,False,False
+Many-shot GSM8K,False,False,False,True,False
+MathEval,False,False,False,False,False
+MathVista,False,True,True,False,False
+MedMCQA Dev,False,False,False,False,True
+MedQA Mainland China,False,False,False,False,True
+MedQA Taiwan,False,False,False,False,True
+MedQA USMLE 4 Options,False,False,False,False,True
+MedQA USMLE 5 Options,False,False,False,False,True
+Mini-Grid,False,False,True,False,False
+MixEval,False,False,False,False,False
+Model-Biotool Integration,True,False,False,False,False
+MuTox,False,False,False,True,False
+Multi-factual,False,True,False,False,False
+Multi-needle,False,False,False,True,False
+Multi-round Co-reference Resolution (MRCR),False,False,True,False,False
+MultiPL-E,False,False,False,True,False
+Multilingual LibriSpeech (MLS),False,False,False,False,False
+Multilingual MMLU,False,True,False,True,False
+Multimodal Refusal Evaluation,True,False,False,False,False
+Multimodal Troubleshooting Virology,True,False,False,False,False
+Multiple needles-in-a-haystack,False,False,True,False,False
+Multi‐factual QA,False,False,False,False,False
+NExT-QA,False,False,False,True,False
+NIAH,False,True,True,True,False
+Natural2Code,False,False,True,False,False
+Nexus,False,False,False,True,False
+OlympicArena,False,False,False,False,False
+Open LLM Leaderboard,False,False,False,False,False
+OpenAI Interview (Multiple Choice),False,False,False,False,False
+OpenAI Research Coding Interview,False,False,False,False,True
+OpenAI Research Engineer Interview (Multiple Choice & Coding),False,False,False,False,False
+OpenAI Research Engineer Interviews,True,False,False,False,False
+OpenBookQA,False,False,False,True,False
+OpenEQA,False,False,True,False,False
+PAWS,False,False,False,True,False
+Pairwise Safety Comparison,True,False,False,False,False
+Perception Test,False,False,False,True,False
+PersonQA,True,False,False,False,False
+PhysicsFinals,False,False,True,False,False
+PiQA,False,False,False,True,False
+Political Persuasion Parallel Generation,True,False,False,False,False
+Pre-school Activities Calendar,False,False,False,False,False
+Production Jailbreaks,True,False,False,False,False
+Prosody Modeling Evaluation,False,False,False,False,False
+ProtocolQA,True,False,False,False,False
+ProtocolQA Open-Ended,True,False,False,False,False
+PubMedQA,False,True,False,False,False
+QA for Web Search Topics,False,False,True,False,False
+Qasper,False,False,True,True,False
+QuAC,False,False,False,True,False
+QuALITY,False,True,False,True,False
+QuaC,False,False,False,True,False
+QuantBench,True,False,False,False,False
+RACE,False,True,False,True,False
+RACE-H,False,True,False,False,False
+Radiological and Nuclear Expert Knowledge,True,False,False,False,False
+Real Estate Photo Quality Analysis,False,False,False,False,False
+RealToxicityPrompts,False,False,True,False,False
+Red‐teaming Datasets (Unnamed),False,False,False,False,False
+Regurgitation Evaluations,True,False,False,False,False
+SAD Benchmark,False,False,False,False,False
+SAT Math,False,False,False,True,False
+SAT Reading,False,False,False,True,False
+SIQA,False,False,False,False,False
+SQuAD,False,False,False,True,False
+SQuAD V2,False,False,False,False,False
+SQuALITY,False,False,False,True,False
+STEM QA with Context,False,False,True,False,False
+SWE-Bench,True,False,False,False,True
+SWE-bench Verified,True,False,False,False,False
+SciBench,False,False,False,False,False
+Sciassess,False,False,False,False,True
+SecureBio,True,False,False,False,False
+SiQA,False,False,False,True,False
+SimpleQA,True,False,False,False,False
+Standard Refusal Evaluation,True,False,False,False,False
+StrongReject,True,False,False,False,False
+Structured Expert Probing Campaign – Chem-Bio Novel Design,True,False,False,False,False
+Structured Expert Probing Campaign – Radiological & Nuclear,True,False,False,False,False
+SuperBench,False,False,False,False,False
+SuperLim,False,False,False,False,False
+TAT-DQA,False,False,True,False,False
+TAT-QA,False,False,False,False,False
+TREC Search Topics,False,False,True,False,False
+TVQA,False,False,True,True,False
+Tacit Knowledge Brainstorm (Open-Ended),True,False,False,False,False
+Tacit Knowledge and Troubleshooting,True,False,False,False,True
+Tacit Knowledge and Troubleshooting (MCQ),True,False,False,False,False
+TextVQA,False,False,True,True,False
+Theory of Mind Tasks,False,False,False,False,True
+ToxiGen,False,False,False,True,False
+Translated ARC,False,False,False,False,True
+Trip Planning,False,False,True,False,False
+TriviaQA,False,False,False,True,True
+TruthfulQA,False,False,False,False,True
+UK AISI’s Theory of Mind,False,False,False,False,True
+Uhura-Eval,False,False,False,False,True
+Unstructured Multimodal Data Analytics,False,False,True,False,False
+V* Benchmark,False,False,True,False,False
+VATEX,False,False,True,False,False
+VQAv2,False,False,True,True,False
+Video Needle-in-a-Haystack,False,False,True,False,False
+VisualWebArena,False,False,False,False,False
+VoxPopuli,False,False,True,True,False
+WHOOPS!,False,False,False,False,False
+WMT23,False,False,True,False,False
+We-Math,False,False,False,False,False
+WildChat,True,True,False,False,False
+WinoBias,False,False,False,False,False
+WinoGender,False,False,False,False,False
+WinoGrande,False,True,False,True,False
+WorldSense,False,False,False,True,False
+XSTest,True,True,False,False,False
+YouCook,False,False,True,False,False
+YouCook2,False,False,True,False,False
+ZeroSCROLLS,False,False,False,True,False
